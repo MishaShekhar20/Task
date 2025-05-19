@@ -6,5 +6,6 @@ public class Icecream {
         System.out.println("The best place to have Ice-cream is "+ place);
         Icecream ice = new Icecream();
         System.out.println("I like " + ice.flavour);
+        System.out.println("Ice-creams are tasty");
     }
 }
