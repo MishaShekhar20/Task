@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ATM {
     public static void main(String[] args) {
-        System.out.println("Choose your serivce");
+        System.out.println("Choose your service");
         Scanner sc = new Scanner(System.in);
         int service = sc.nextInt();
         switch(service){
